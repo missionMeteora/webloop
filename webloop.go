@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/conformal/gotk3/glib"
-	"github.com/sourcegraph/go-webkit2/webkit2"
+	"github.com/missionMeteora/go-webkit2/webkit2"
 	"github.com/sqs/gojs"
 )
 
